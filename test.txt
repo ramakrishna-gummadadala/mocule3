@@ -1,1 +1,2 @@
 this is text from local repository
+this line from remote repository
